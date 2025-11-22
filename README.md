@@ -7,3 +7,10 @@ This project analyzes a Kaggle dataset of chess games to view opening popularity
 - Analyze openings, winrates, and other quantities 
 - Visualize trends across the rating ladder 
 - Draw conclusions and discuss insights
+
+## Dataset 
+- Kaggle: Chess Game Dataset (Lichess)
+- Link: [datasnaek/chess](https://www.kaggle.com/datasets/datasnaek/chess)
+
+## How to Run 
+- Simply open the jupyter notebook (.ipynb) and run all cells in order
