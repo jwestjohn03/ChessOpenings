@@ -9,7 +9,7 @@
 ### Here we can see that, by far, the Sicilian Defense is the most popular chess opening, which should not come as a suprise. The other common openings being the Italian, French Defense, and Queens Pawn Game was also expected. As for the common first moves, it is no surprise that e4 is more common than d4. The first moves Nf3 and c4 are also up there as they are in common openings such as the Reti and English Opening. The move e3 suprised me as being 5th most common, but it does look like a safe pawn move for beginner players.
 ### As for the opening winrates, we can see that white does very well in Queens Gambit Declined and the Bishops Opening. These make perfect sense as most lower rated players with the black pieces might not know as nuch about this opening as players with the white pieces. The Bishops Opening is an aggressive opening that can punish early mistakes by black. The most suprising thing in this data is Van Krujis Opening scoring over 70% for black. I am not very familiar with this opening, but I do now that it is a passive line for white, so it makes sense that black can capatalize on it. However, 70% is a massive advantage for black, and might be explained by the low size of the data. 
 
-# Trends Between Ratin Groups
+# Trend Differences Between Rating Groups
 
 ![](images/rating_distribution.png)
 
@@ -32,7 +32,13 @@
 ![](images/Intermediate_top_openings_black.png)
 ![](images/Advanced_top_openings_black.png)
 
+### The results for blacks opening were somewhat confusing for me to analyze. First, we can see the Van Krujis Opening score indredibly well in the Lower and Intermediate groups. Again, I think that this can be explained by the small sample size of the data, as well as it bein a passive opening for white. I was very suprised to see the Ruy Lopez be the highest winrate for black in the Advanced bracket. I think that the Scandinavian and Sicilian scoring well make sense, as these are very confrontational openings for black. 
 
+# Overall Trends Across Rating Groups 
+
+![](images/draw_rate_by_rating_group.png)
+![](images/avg_game_length_by_rating_group.png)
+![](images/sicilian_defense_rate_by_rating_group.png)
 
 
 
