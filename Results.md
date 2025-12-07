@@ -36,7 +36,11 @@
 
 # Overall Trends Across Rating Groups 
 
+![](images/draw_rate_by_rating_group.png)
+![](images/avg_game_length_by_rating_group.png)
+![](images/sicilian_defense_rate_by_rating_group.png)
 
+### In these results we can see a couple of trends that vary by rating. The amount of draws increase as higher rated players generally play more symmetrical and concrete lines, and understand theoretically drawn endgames better. Afterall, perfect chess does result in a draw. The amount of moves in a game increases with rating as higher rated players play longer opening lines and don't make nearly as many early game blunders as lower rated players. Finally, the amount of times the Sicilian is played is correlated with rating, as it is the most complex and theoretically advanced opening in chess. 
 
 
 
