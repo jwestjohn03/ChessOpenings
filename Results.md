@@ -36,10 +36,6 @@
 
 # Overall Trends Across Rating Groups 
 
-![](images/draw_rate_by_rating_group.png)
-![](images/avg_game_length_by_rating_group.png)
-![](images/sicilian_defense_rate_by_rating_group.png)
-
 
 
 
