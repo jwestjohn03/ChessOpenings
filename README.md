@@ -14,3 +14,9 @@ This project analyzes a Kaggle dataset of chess games to view opening popularity
 
 ## How to Run 
 - Simply open the jupyter notebook (.ipynb) and run all cells in order
+
+## Limitations
+- The dataset contains a limited number of games (~15k), which can cause win rates for rare openings to be noisy.
+- Rating groups are unevenly distributed, with fewer games at higher ratings.
+- Results reflect online play and may not generalize to over-the-board or elite tournament chess.
+- Opening classifications are based on opening names and may group together distinct sub-variations.
